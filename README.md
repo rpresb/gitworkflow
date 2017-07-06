@@ -8,6 +8,6 @@ Show the status
 
 Retrieves others code
 
-## git checkout <branch>
+## git checkout -b <branch>
 
 Changes branch
